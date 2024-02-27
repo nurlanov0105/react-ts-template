@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Secret file
-.env
+# .env
